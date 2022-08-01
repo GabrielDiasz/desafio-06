@@ -152,7 +152,7 @@ header p {
 
   header {
     width: 38rem;
-    height: 1600px;
+    height: auto;
   }
 
   header h1 {
